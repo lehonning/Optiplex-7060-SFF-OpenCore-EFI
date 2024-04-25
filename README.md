@@ -1,6 +1,6 @@
 # Dell Optiplex 7060 OpenCore EFI
 
-![](Ventura 13.6.6.png)
+![](https://github.com/lehonning/Optiplex-7060-SFF-OpenCore-EFI/blob/main/Ventura%2013.6.6.png)
 
 ## Tested macOS version:
 macOS 13.6.6 Ventura using OpenCore 0.9.8
