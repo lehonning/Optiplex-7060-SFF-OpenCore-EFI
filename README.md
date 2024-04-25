@@ -23,7 +23,7 @@ macOS 13.6.6 Ventura using OpenCore 0.9.8
 
 ## Not working or might not work
 1) Sleep (sometimes it works, working on fix)
-2) DRM (working on fix)
+2) DRM (working on fix, use Google Chrome or Mozilla Firefox for the meanwhile)
 
 
 ## Unknown (not tested)
