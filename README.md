@@ -15,7 +15,7 @@ macOS 13.6.6 Ventura using OpenCore 0.9.8
 1) Ethernet
 2) FileVault
 3) Turbo boost and CPU frequency
-4) iGPU Acceleration
+4) iGPU Hardware Acceleration
 5) HDMI output
 6) DisplayPort output
 7) USB and USB-C ports
@@ -23,7 +23,8 @@ macOS 13.6.6 Ventura using OpenCore 0.9.8
 
 ## Not working or might not work
 1) Sleep (sometimes it works, working on fix)
-2) DRM for Safari (working on fix, use Google Chrome or Mozilla Firefox in the meanwhile)
+2) DRM for Safari (DRM is broken currently on iGPU's, Use Google Chrome or Mozilla Firefox in the meanwhile)
+3) 3.5mm audio jack not working (working on the fix)
 
 
 ## Unknown (not tested)
