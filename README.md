@@ -1,4 +1,4 @@
-# Dell Optiplex 7060 OpenCore EFI
+# Dell Optiplex 7060 SFF OpenCore EFI
 
 ![](https://github.com/lehonning/Optiplex-7060-SFF-OpenCore-EFI/blob/main/Ventura%2013.6.6.png)
 
