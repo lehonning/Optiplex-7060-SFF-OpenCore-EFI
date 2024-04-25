@@ -12,10 +12,9 @@ macOS 13.6.6 Ventura using OpenCore 0.9.8
 - WD SN720 512GB SSD
 
 ## Confirmed working
-
 1) Ethernet
 2) FileVault
-3) CPU SpeedStep
+3) Turbo boost and CPU frequency
 4) iGPU Acceleration
 5) HDMI output
 6) DisplayPort output
@@ -23,7 +22,8 @@ macOS 13.6.6 Ventura using OpenCore 0.9.8
 
 
 ## Not working or might not work
-1) Sleep
+1) Sleep (sometimes it works, working on fix)
+2) DRM (working on fix)
 
 
 ## Unknown (not tested)
@@ -31,3 +31,7 @@ macOS 13.6.6 Ventura using OpenCore 0.9.8
 2) iCloud
 3) iMessage
 4) Dual Boot
+
+## SMBIOS
+Remember to generate your own SMBIOS, you can use the following tool:
+- [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
