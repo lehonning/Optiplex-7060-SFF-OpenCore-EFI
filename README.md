@@ -1,0 +1,1 @@
+# Optiplex-7060-SFF-OpenCore-EFI
