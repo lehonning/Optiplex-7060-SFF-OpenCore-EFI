@@ -4,6 +4,7 @@
 
 ## Tested macOS version:
 macOS 13.6.6 Ventura using OpenCore 0.9.8
+macOS 14.4.1 Sonoma using OpenCore 0.9.8
 
 ## System configuration
 - Intel Core i5-8500 3.0GHz
