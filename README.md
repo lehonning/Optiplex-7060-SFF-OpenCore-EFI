@@ -3,8 +3,8 @@
 ![](https://github.com/lehonning/Optiplex-7060-SFF-OpenCore-EFI/blob/main/Ventura%2013.6.6.png)
 
 ## Tested macOS version:
-macOS 13.6.6 Ventura using OpenCore 0.9.8
-macOS 14.4.1 Sonoma using OpenCore 0.9.8
+- macOS 13.6.6 Ventura using OpenCore 0.9.8
+- macOS 14.4.1 Sonoma using OpenCore 0.9.8
 
 ## System configuration
 - Intel Core i5-8500 3.0GHz
